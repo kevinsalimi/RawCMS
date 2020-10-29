@@ -111,7 +111,7 @@ _Username_: `bob`
 
 _Password_: `XYZ`
 
-You can follow this [**tutorial**](https://rawcms.readthedocs.io/en/latest/Tutorial/) for a quick start.
+You can follow this [**tutorial**](https://rawcms.readthedocs.io/en/latest/) for a quick start.
 
 ## Getting Started
 
